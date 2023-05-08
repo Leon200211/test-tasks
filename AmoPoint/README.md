@@ -23,3 +23,4 @@
 
 
 # Результат
+![image](https://user-images.githubusercontent.com/91278041/236776479-9bd9b5a4-c353-4dea-b683-b2f837c88a12.png)
