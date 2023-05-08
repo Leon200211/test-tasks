@@ -70,9 +70,9 @@ try {
         'count' => $visitCountPerDay
     ];
 
-    echo "<pre>";
-    print_r($res);
-    echo "<pre>";
+
+
+    echo json_encode($res);
 
 }catch(PDOExecption $e) {
     exit("Error!: " . $e->getMessage() . "</br>");
