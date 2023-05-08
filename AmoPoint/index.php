@@ -12,6 +12,12 @@
 <body>
 
 
+<br>
+<a href="task2.html">Задание 2</a>
+<a href="task3.php">Задание 3</a>
+<br>
+<br>
+
 <input type="file" id="js-file">
 
 <div id="result">

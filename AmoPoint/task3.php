@@ -151,6 +151,11 @@
 <body>
 
 
+<br>
+<a href="index.php">Задание 1</a>
+<a href="task2.html">Задание 2</a>
+<br>
+<br>
 
 
 <div id="user-city"></div> <div id="user-region"></div> <div id="user-
