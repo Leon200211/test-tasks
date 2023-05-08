@@ -8,7 +8,7 @@ $allow = array(
 
 
 // Директория куда будут загружаться файлы.
-$path = $_SERVER['DOCUMENT_ROOT'] . '/AmoPoint/file/';
+$path = $_SERVER['DOCUMENT_ROOT'] . '/file/';
 
 
 $error = $success = '';
