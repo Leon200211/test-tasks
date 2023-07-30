@@ -1,6 +1,6 @@
 <?php
 $host = '127.0.0.1:3307';
-$db   = 'AmoPoint';
+$db   = 'amopoint';
 $user = 'root';
 $pass = 'root';
 $charset = 'utf8';
